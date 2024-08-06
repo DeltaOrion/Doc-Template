@@ -1,9 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Rapid Logix Docs
+description: View the docs
 theme: just-the-docs
 markdown: kramdown
 
 url: https://just-the-docs.github.io
+logo: rapid-spray-logo.png
+
+footer_content: "Epic Footer Content"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
