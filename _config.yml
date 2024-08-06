@@ -4,7 +4,7 @@ theme: just-the-docs
 markdown: kramdown
 
 url: https://just-the-docs.github.io
-logo: rapid-spray-logo.png
+logo: assets/rapid-spray-logo.png
 
 footer_content: "Epic Footer Content"
 
