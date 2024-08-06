@@ -7,7 +7,7 @@ url: https://just-the-docs.github.io
 logo: assets/rapid-spray-logo.png
 
 footer_content: "Epic Footer Content"
-color_scheme: rapidLogix
+color_scheme: custom
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
