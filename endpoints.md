@@ -1,5 +1,6 @@
 ---
-title: API Endpoints
+layout: default
+title: Customization
 nav_order: 2
 ---
 

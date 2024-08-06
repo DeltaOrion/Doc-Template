@@ -1,6 +1,7 @@
 ---
-title: Home
 layout: default
+title: Customization
+nav_order: 1
 ---
 
 # API Documentation
