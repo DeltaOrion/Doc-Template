@@ -6,8 +6,19 @@ markdown: kramdown
 url: https://just-the-docs.github.io
 logo: assets/rapid-spray-logo.png
 
-footer_content: "Epic Footer Content"
-color_scheme: red
+color_scheme: custom
+heading_anchors: true
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+callouts:
+  note:
+    title: note
+    color: green
+  warning:
+    title: warning
+    color: yellow
+  important:
+    title: important
+    color: red
